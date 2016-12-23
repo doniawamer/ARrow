@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/urllauncher_main.xml",
+        "source": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/urllauncher_main.xml"
+    },
+    {
+        "merged": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/sample_poidetail.xml",
+        "source": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/sample_poidetail.xml"
+    },
+    {
+        "merged": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/list_sample.xml",
+        "source": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/list_sample.xml"
+    },
+    {
+        "merged": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/list_startscreen.xml",
+        "source": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/list_startscreen.xml"
+    },
+    {
+        "merged": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/sample_cam_fragment_main.xml",
+        "source": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/sample_cam_fragment_main.xml"
+    },
+    {
+        "merged": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/sample_1.xml",
+        "source": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/sample_1.xml"
+    },
+    {
+        "merged": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/res/merged/debug/layout/sample_cam.xml",
+        "source": "/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/src/main/res/layout/sample_cam.xml"
+    }
+]

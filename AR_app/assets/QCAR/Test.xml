@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sign" size="1.000000 1.372825" />
+    <ImageTarget name="xbox" size="1.000000 0.407557" />
+    <ImageTarget name="windows" size="1.000000 0.422006" />
+    <ImageTarget name="skype" size="1.000000 0.428369" />
+    <ImageTarget name="microsoft_purple" size="1.000000 0.455319" />
+    <ImageTarget name="microsoft_pink" size="1.000000 0.450644" />
+    <ImageTarget name="bing" size="1.000000 0.405797" />
+    <ImageTarget name="soylent" size="1.000000 1.721616" />
+    <ImageTarget name="trident" size="1.000000 0.665441" />
+    <ImageTarget name="twenty" size="1.000000 0.450000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/exploded-aar/wikitudesdk/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="943826ba38df25fea857508300b31bd1f20c9301">
+        <dex dex="/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-wikitudesdk_af7ad516c0d6e5ef7c980e8c5aa40f7b9de0cb90/classes.dex" />
+    </item>
+    <item
+        jar="/Users/doniawamer/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.0/e019d15a13a9786f881141d2df6654b8510bce8b/core-3.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.0_8fbbd99277cde5e3c9d3e5b0df46a71753982512/classes.dex" />
+    </item>
+    <item
+        jar="/Users/doniawamer/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_26b156ee0a245621d1c081ba5b893cb89ab93539/classes.dex" />
+    </item>
+    <item
+        jar="/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="855f102db2662d9fcd8e05995eddca3227e7dcc6">
+        <dex dex="/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f4137b6b3225abbe9544f1f51aef0e1fb182a0d5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_22e08bbd0fd5ca3fb8677b31c842c8c0f2bb5d6d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="020fd973924a979c865b971f46cb9ad96c2892b7">
+        <dex dex="/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b8ef9e826bb8a64e95e0d7f760b9eb8f4aa99643/classes.dex" />
+    </item>
+    <item
+        jar="/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/doniawamer/Downloads/WikitudeSDK_Android_5-3-0_2016-09-13_14-19-36/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_67b9472595efa046c3f85cb3a9a050b0ac685c55/classes.dex" />
+    </item>
+
+</items>
